@@ -29,7 +29,7 @@
   <a href="https://www.youtube.com/channel/UCtKl5MW7FqMMGx8smrkxWAw" alt="Youtube channel" target="_blank" >
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
-  <a href="nxt159753@gmail.com" alt="Email">
+  <a href="[nxt159753@gmail.com](https://myaccount.google.com/u/1/?hl=vi&utm_source=OGB&utm_medium=act)" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
